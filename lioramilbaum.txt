@@ -1,3 +1,0 @@
-I am the workshop instructor
-
-this is a change on the small_feature branch
